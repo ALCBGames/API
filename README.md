@@ -1,2 +1,2 @@
 # API
-The official ALCB API
+The official ALCB (static) API
